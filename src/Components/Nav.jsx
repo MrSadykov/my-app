@@ -18,6 +18,9 @@ const Nav = () => {
             <div>
                 <a>Settings</a>
             </div>
+            <div>
+                <a>About my-app</a>
+            </div>
         </nav>
     )
 }
